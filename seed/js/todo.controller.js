@@ -55,4 +55,4 @@ function TodoController(TodoService) {
   getTodos();
 }
 
-angular.module("app").controller("TodocController", TodoController);
+angular.module("app").controller("TodoController", TodoController);
